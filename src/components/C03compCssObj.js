@@ -1,6 +1,6 @@
 const estiloObj = {
     estilo1: {
         backgroundColor: 'yellow',
-        fontSize: '1em',
+        fontSize: '2em',
     }
 }

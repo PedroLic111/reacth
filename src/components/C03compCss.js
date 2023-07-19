@@ -20,6 +20,7 @@ const C03componenteConCss = () => {
             <button style={style.estilo1}>
                 Boton 3 con estilos en archivo js (Definido como objeto)
             </button>
+            <hr/>
         </div>
     )
 }
