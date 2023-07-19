@@ -12,7 +12,7 @@ function App() {
       <hr />
       <Contador />
       <hr/>
-      <Contador2h />
+      <Contador2/>
     </div>
   );
 }
