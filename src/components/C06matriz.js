@@ -6,6 +6,7 @@ const C06matriz = () => {
 
   return (
     <Fragment>
+        <h1>COMPONENTE 1</h1>
         <h1>Lectura sin index sin html</h1>
         {lista.map((item) => item)}
         <br/>

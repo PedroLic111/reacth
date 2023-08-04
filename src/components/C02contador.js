@@ -11,7 +11,8 @@ const C02contador = () => {
 
   return (
     <Fragment>
-        <h3>Mi primer componente {numero} </h3>
+        <h1>COMPONENTE 9</h1>,
+        <h3>Mi primer componente {numero} </h3>,
         <button onClick={aumentar}>Aumentar</button> 
     </Fragment>
   )

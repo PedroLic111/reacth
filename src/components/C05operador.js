@@ -6,6 +6,7 @@ const C05operador = () => {
 
   return (
     <Fragment>
+        <h1>COMPONENTE 3</h1>
         <h1>Operador ternario</h1>
         {edad >= 18? 'Mayor de edad': 'Menor de edad'}
     </Fragment>
